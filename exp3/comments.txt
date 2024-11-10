@@ -1,0 +1,3 @@
+ Calculate the square root
+ Variable initialization / Print the result
+ Function call / End of program
